@@ -1,0 +1,71 @@
+2026-06-15 11:10:49.963 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 11:33:58.553 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 11:34:42.453 +05:30 [INF] HTTP OPTIONS /api/Users/login responded 405 in 192.0383 ms
+2026-06-15 11:34:59.320 +05:30 [INF] HTTP OPTIONS /api/Users/login responded 405 in 2.1940 ms
+2026-06-15 11:38:02.244 +05:30 [INF] HTTP OPTIONS /api/Users/login responded 405 in 8.8305 ms
+2026-06-15 11:49:29.255 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 11:55:48.993 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 11:56:18.908 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 5964.7430 ms
+2026-06-15 12:10:05.214 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 12:23:49.480 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 12:24:24.396 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 4427.8165 ms
+2026-06-15 12:24:52.132 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 378.4600 ms
+2026-06-15 12:25:14.112 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 55.6294 ms
+2026-06-15 12:26:03.048 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 35.8633 ms
+2026-06-15 12:26:03.064 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 9.8217 ms
+2026-06-15 16:12:26.695 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 16:13:05.265 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 5893.0620 ms
+2026-06-15 16:16:48.841 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 16:17:26.069 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3391.7602 ms
+2026-06-15 16:17:50.961 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 534.4690 ms
+2026-06-15 16:23:21.707 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 32.8279 ms
+2026-06-15 16:23:21.720 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 4.6128 ms
+2026-06-15 16:23:43.545 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 4.6331 ms
+2026-06-15 16:23:43.553 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 1.6157 ms
+2026-06-15 16:24:01.098 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 10.5652 ms
+2026-06-15 16:24:01.181 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 12.9290 ms
+2026-06-15 16:24:04.693 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 523.7189 ms
+2026-06-15 16:24:04.918 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 117.0512 ms
+2026-06-15 16:24:04.939 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 10.7978 ms
+2026-06-15 16:24:35.663 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 91.5602 ms
+2026-06-15 16:24:35.761 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 50.0108 ms
+2026-06-15 16:30:12.810 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 33.3804 ms
+2026-06-15 16:30:12.890 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 75.3668 ms
+2026-06-15 16:30:32.516 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 16:31:08.768 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3109.3571 ms
+2026-06-15 16:31:34.798 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 532.7725 ms
+2026-06-15 16:31:43.313 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 148.9209 ms
+2026-06-15 16:31:43.350 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 32.8192 ms
+2026-06-15 16:31:45.806 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 164.3311 ms
+2026-06-15 16:31:45.833 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 24.5883 ms
+2026-06-15 16:31:48.546 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 439.1159 ms
+2026-06-15 16:31:48.652 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 13.6371 ms
+2026-06-15 16:31:48.717 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 27.4162 ms
+2026-06-15 16:31:57.616 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 70.0837 ms
+2026-06-15 16:31:57.730 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 107.6618 ms
+2026-06-15 16:34:28.867 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 97.7503 ms
+2026-06-15 16:34:29.033 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 155.0020 ms
+2026-06-15 17:20:55.782 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 17:21:32.634 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 401 in 160.0185 ms
+2026-06-15 17:22:14.520 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3357.6394 ms
+2026-06-15 17:22:40.096 +05:30 [WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2026-06-15 17:22:40.348 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 638.9535 ms
+2026-06-15 17:48:33.609 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 69.8257 ms
+2026-06-15 17:48:33.614 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 1.5488 ms
+2026-06-15 17:48:36.743 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 1.8540 ms
+2026-06-15 17:48:36.783 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 401 in 1.1012 ms
+2026-06-15 17:48:39.487 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 471.1793 ms
+2026-06-15 17:48:39.772 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 180.8126 ms
+2026-06-15 17:48:39.797 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 15.1818 ms
+2026-06-15 17:48:50.147 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 221.0687 ms
+2026-06-15 17:48:50.163 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 12.9700 ms
+2026-06-15 17:48:51.805 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 33.9752 ms
+2026-06-15 17:48:51.872 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 48.9713 ms
+2026-06-15 18:09:01.436 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 18:10:41.293 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 2855.2942 ms
+2026-06-15 18:21:02.547 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-15 18:22:28.305 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 401 in 190.1190 ms
+2026-06-15 18:29:26.584 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3257.5026 ms
+2026-06-15 18:29:48.560 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 272.1474 ms
+2026-06-15 18:39:38.528 +05:30 [WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2026-06-15 18:39:38.765 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 632.6226 ms

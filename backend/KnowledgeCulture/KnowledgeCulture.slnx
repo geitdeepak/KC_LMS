@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KnowledgeCulture.API/KnowledgeCulture.API.csproj" />
+  <Project Path="KnowledgeCulture.Application/KnowledgeCulture.Application.csproj" />
+  <Project Path="KnowledgeCulture.Domain/KnowledgeCulture.Domain.csproj" />
+  <Project Path="KnowledgeCulture.Infrastructure/KnowledgeCulture.Infrastructure.csproj" />
+</Solution>

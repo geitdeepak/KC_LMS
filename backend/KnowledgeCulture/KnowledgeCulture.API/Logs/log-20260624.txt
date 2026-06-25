@@ -1,0 +1,438 @@
+2026-06-24 10:09:29.109 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 401 in 8.3137 ms
+2026-06-24 10:09:29.119 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 401 in 0.5512 ms
+2026-06-24 10:09:32.133 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 401 in 1.7800 ms
+2026-06-24 10:09:32.144 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 401 in 7.0878 ms
+2026-06-24 10:09:33.816 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 1.0861 ms
+2026-06-24 10:09:33.823 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 0.6567 ms
+2026-06-24 10:09:36.053 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 1.2970 ms
+2026-06-24 10:09:36.068 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 3.3870 ms
+2026-06-24 10:09:42.597 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 262.3380 ms
+2026-06-24 10:09:42.831 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 36.3407 ms
+2026-06-24 10:09:42.845 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 10.7347 ms
+2026-06-24 10:09:43.075 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 58.7474 ms
+2026-06-24 10:09:43.085 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 7.0711 ms
+2026-06-24 10:09:43.089 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 71.9964 ms
+2026-06-24 10:09:43.101 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 7.3409 ms
+2026-06-24 10:09:47.691 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 16.6777 ms
+2026-06-24 10:09:47.702 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 6.6450 ms
+2026-06-24 10:09:51.625 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 18.4536 ms
+2026-06-24 10:09:51.633 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 5.7320 ms
+2026-06-24 10:09:51.642 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 9.8970 ms
+2026-06-24 10:09:51.647 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.0701 ms
+2026-06-24 10:10:07.502 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.5594 ms
+2026-06-24 10:10:08.244 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 3.1240 ms
+2026-06-24 10:10:09.580 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.1656 ms
+2026-06-24 10:10:10.350 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 6.2964 ms
+2026-06-24 10:58:25.941 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 73.8524 ms
+2026-06-24 10:58:25.955 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 11.2404 ms
+2026-06-24 10:58:25.959 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.9769 ms
+2026-06-24 10:58:25.969 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.4782 ms
+2026-06-24 10:58:36.342 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 229.9733 ms
+2026-06-24 10:58:36.548 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 25.0244 ms
+2026-06-24 10:58:36.563 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 12.2334 ms
+2026-06-24 10:58:36.774 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 52.9741 ms
+2026-06-24 10:58:36.789 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 11.1075 ms
+2026-06-24 10:58:36.794 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 73.2062 ms
+2026-06-24 10:58:36.806 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 7.9197 ms
+2026-06-24 10:58:48.853 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 21.1232 ms
+2026-06-24 10:58:48.864 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 8.3101 ms
+2026-06-24 10:58:52.183 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 12.4381 ms
+2026-06-24 10:58:52.196 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 9.2967 ms
+2026-06-24 10:58:52.201 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 6.1135 ms
+2026-06-24 10:58:52.206 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 2.9763 ms
+2026-06-24 10:59:59.146 +05:30 [INF] HTTP GET /api/Quizzes/lesson/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 12.6177 ms
+2026-06-24 11:00:19.577 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 4.5363 ms
+2026-06-24 11:00:21.214 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.6701 ms
+2026-06-24 11:00:22.211 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 4.2202 ms
+2026-06-24 11:00:49.217 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 25.9375 ms
+2026-06-24 11:00:49.227 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 6.8632 ms
+2026-06-24 11:00:51.636 +05:30 [INF] HTTP GET /api/Certificates/my responded 200 in 11.7724 ms
+2026-06-24 11:00:51.642 +05:30 [INF] HTTP GET /api/Certificates/my responded 200 in 4.2299 ms
+2026-06-24 11:01:01.236 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 14.1799 ms
+2026-06-24 11:01:01.254 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 14.7421 ms
+2026-06-24 11:01:02.548 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 13.4837 ms
+2026-06-24 11:01:02.560 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 6.3027 ms
+2026-06-24 11:01:02.649 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 19.8838 ms
+2026-06-24 11:01:02.667 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 37.1586 ms
+2026-06-24 11:01:02.668 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 13.0611 ms
+2026-06-24 11:01:02.682 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 9.4274 ms
+2026-06-24 11:01:13.841 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 12.7138 ms
+2026-06-24 11:01:13.854 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 10.4647 ms
+2026-06-24 11:01:18.352 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 11.8768 ms
+2026-06-24 11:01:18.360 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 5.6897 ms
+2026-06-24 11:01:18.368 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 8.4445 ms
+2026-06-24 11:01:18.376 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.6560 ms
+2026-06-24 11:02:06.311 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 401 in 0.2864 ms
+2026-06-24 11:09:50.095 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 1.3444 ms
+2026-06-24 11:09:50.122 +05:30 [INF] HTTP GET /api/Learner/courses responded 401 in 3.2109 ms
+2026-06-24 11:09:55.467 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 305.2795 ms
+2026-06-24 11:09:55.938 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 32.8105 ms
+2026-06-24 11:09:55.960 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 19.2210 ms
+2026-06-24 11:09:56.170 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 75.7179 ms
+2026-06-24 11:09:56.186 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 91.6759 ms
+2026-06-24 11:09:56.205 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 12.2239 ms
+2026-06-24 11:09:56.208 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 30.7941 ms
+2026-06-24 11:10:13.483 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 23.1818 ms
+2026-06-24 11:10:13.529 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 18.2171 ms
+2026-06-24 11:10:17.394 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 14.7278 ms
+2026-06-24 11:10:17.549 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 40.6142 ms
+2026-06-24 11:10:17.550 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 24.7558 ms
+2026-06-24 11:10:17.565 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.5067 ms
+2026-06-24 11:10:46.340 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 10.0059 ms
+2026-06-24 11:11:31.319 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 35.2056 ms
+2026-06-24 11:11:31.384 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 56.8666 ms
+2026-06-24 11:11:34.834 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 224.1304 ms
+2026-06-24 11:11:34.989 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 34.3607 ms
+2026-06-24 11:11:35.010 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 16.1588 ms
+2026-06-24 11:11:35.114 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 37.2736 ms
+2026-06-24 11:11:35.129 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 50.6975 ms
+2026-06-24 11:11:35.160 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 38.6368 ms
+2026-06-24 11:11:35.181 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 39.5849 ms
+2026-06-24 11:11:36.662 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 26.0871 ms
+2026-06-24 11:11:36.672 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 8.1393 ms
+2026-06-24 11:11:39.757 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 12.4613 ms
+2026-06-24 11:11:39.767 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 8.2339 ms
+2026-06-24 11:11:39.773 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 9.2074 ms
+2026-06-24 11:11:39.779 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.6789 ms
+2026-06-24 11:12:08.542 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 59.9695 ms
+2026-06-24 11:12:08.655 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 49.0405 ms
+2026-06-24 11:12:08.656 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 15.7000 ms
+2026-06-24 11:12:08.793 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 8.3224 ms
+2026-06-24 11:26:17.158 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-24 11:26:46.653 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3980.8115 ms
+2026-06-24 11:27:04.418 +05:30 [WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2026-06-24 11:27:04.673 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 621.0622 ms
+2026-06-24 11:27:04.747 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 71.0630 ms
+2026-06-24 11:27:05.850 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 129.9273 ms
+2026-06-24 11:27:05.870 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 17.2198 ms
+2026-06-24 11:27:06.117 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 134.2477 ms
+2026-06-24 11:27:06.124 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 142.0256 ms
+2026-06-24 11:27:06.142 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 22.0777 ms
+2026-06-24 11:27:06.149 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 17.3084 ms
+2026-06-24 11:27:08.576 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 372.7039 ms
+2026-06-24 11:27:08.719 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 14.4338 ms
+2026-06-24 11:27:08.748 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 22.2144 ms
+2026-06-24 11:27:08.862 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 39.6895 ms
+2026-06-24 11:27:08.864 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 40.4523 ms
+2026-06-24 11:27:08.885 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 19.7437 ms
+2026-06-24 11:27:08.891 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 16.9038 ms
+2026-06-24 11:27:11.447 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 17.0736 ms
+2026-06-24 11:27:11.463 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 12.4992 ms
+2026-06-24 11:27:13.826 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 42.3282 ms
+2026-06-24 11:27:13.843 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 14.4060 ms
+2026-06-24 11:27:13.867 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 32.7693 ms
+2026-06-24 11:27:13.875 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.3984 ms
+2026-06-24 11:33:59.402 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 30.4837 ms
+2026-06-24 11:33:59.418 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 13.3757 ms
+2026-06-24 11:33:59.425 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 12.5190 ms
+2026-06-24 11:33:59.437 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 9.7911 ms
+2026-06-24 11:59:13.159 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 52.4520 ms
+2026-06-24 11:59:13.174 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 12.5934 ms
+2026-06-24 11:59:13.177 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.7741 ms
+2026-06-24 11:59:13.189 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 6.1208 ms
+2026-06-24 11:59:15.974 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 33.9829 ms
+2026-06-24 11:59:15.987 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 10.5145 ms
+2026-06-24 11:59:18.731 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 237.5154 ms
+2026-06-24 11:59:18.859 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 8.3994 ms
+2026-06-24 11:59:18.872 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 9.5767 ms
+2026-06-24 11:59:19.002 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 16.1161 ms
+2026-06-24 11:59:19.022 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 16.6090 ms
+2026-06-24 11:59:19.026 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 39.2834 ms
+2026-06-24 11:59:19.042 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 12.0111 ms
+2026-06-24 11:59:20.427 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 9.9340 ms
+2026-06-24 11:59:20.443 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 11.3106 ms
+2026-06-24 11:59:23.492 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 12.4754 ms
+2026-06-24 11:59:23.507 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 10.8802 ms
+2026-06-24 11:59:23.509 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.7396 ms
+2026-06-24 11:59:23.532 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 9.2336 ms
+2026-06-24 12:50:14.625 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 70.7938 ms
+2026-06-24 12:50:14.660 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 29.4578 ms
+2026-06-24 12:50:14.666 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 11.7337 ms
+2026-06-24 12:50:14.675 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.8640 ms
+2026-06-24 12:50:19.182 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 20.5486 ms
+2026-06-24 12:50:19.193 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 9.3380 ms
+2026-06-24 12:50:23.470 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 207.2090 ms
+2026-06-24 12:50:23.590 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 16.0868 ms
+2026-06-24 12:50:23.599 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 6.4847 ms
+2026-06-24 12:50:23.697 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 23.6494 ms
+2026-06-24 12:50:23.736 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 61.0167 ms
+2026-06-24 12:50:23.760 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 42.3590 ms
+2026-06-24 12:50:23.784 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 33.4064 ms
+2026-06-24 12:50:25.565 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 8.6809 ms
+2026-06-24 12:50:25.577 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 9.3639 ms
+2026-06-24 12:50:28.181 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 8.2631 ms
+2026-06-24 12:50:28.199 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 15.9530 ms
+2026-06-24 12:50:28.205 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 13.1359 ms
+2026-06-24 12:50:28.214 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 3.5076 ms
+2026-06-24 12:50:34.127 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 7.2172 ms
+2026-06-24 12:50:36.532 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 5.0198 ms
+2026-06-24 12:50:36.957 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.9369 ms
+2026-06-24 12:50:41.467 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.7805 ms
+2026-06-24 12:50:42.434 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 5.2836 ms
+2026-06-24 12:50:43.349 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 4.3073 ms
+2026-06-24 12:54:04.440 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 19.5178 ms
+2026-06-24 12:54:04.459 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 16.2080 ms
+2026-06-24 12:54:04.463 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.2388 ms
+2026-06-24 12:54:04.475 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 7.0787 ms
+2026-06-24 12:54:07.280 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 5.0000 ms
+2026-06-24 12:54:07.971 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 5.8545 ms
+2026-06-24 12:55:49.080 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 8.5388 ms
+2026-06-24 12:55:49.549 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 3.3747 ms
+2026-06-24 13:04:46.385 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 50.7051 ms
+2026-06-24 13:04:46.407 +05:30 [INF] HTTP GET /api/Learner/courses/cce3fef2-6410-472d-b529-d5d2c11419ba responded 200 in 16.2164 ms
+2026-06-24 13:04:46.414 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 8.4033 ms
+2026-06-24 13:04:46.427 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 11.0263 ms
+2026-06-24 13:07:39.975 +05:30 [INF] HTTP GET /api/Lessons/90f1abec-01d1-4853-a8ea-7e30e3cefc1b responded 200 in 10.9921 ms
+2026-06-24 13:07:42.672 +05:30 [INF] HTTP GET /api/Lessons/1182e329-f59f-4087-b951-c65fab93706f responded 200 in 7.3492 ms
+2026-06-24 13:32:51.945 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 39.4190 ms
+2026-06-24 13:32:51.955 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 7.7007 ms
+2026-06-24 13:32:54.815 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 38.9232 ms
+2026-06-24 13:32:54.829 +05:30 [INF] HTTP GET /api/Learner/dashboard responded 200 in 7.9124 ms
+2026-06-24 13:32:54.987 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 24.7250 ms
+2026-06-24 13:32:55.005 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 44.1140 ms
+2026-06-24 13:32:55.006 +05:30 [INF] HTTP GET /api/Progress/my-courses/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 15.8645 ms
+2026-06-24 13:32:55.022 +05:30 [INF] HTTP GET /api/Progress/continue-learning/2401a780-26e3-4f81-acee-5ee842dbe4bd responded 200 in 10.7582 ms
+2026-06-24 17:55:39.430 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-24 17:56:32.637 +05:30 [INF] HTTP POST /api/Users/register responded 200 in 3778.0182 ms
+2026-06-24 17:57:07.009 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 640.5575 ms
+2026-06-24 17:57:29.980 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 263.6167 ms
+2026-06-24 17:57:30.620 +05:30 [ERR] Failed executing DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 17:57:30.655 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 17:57:31.229 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 1028.0107 ms
+2026-06-24 17:57:31.251 +05:30 [ERR] Failed executing DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 17:57:31.253 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 17:57:31.628 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 394.4748 ms
+2026-06-24 17:57:45.791 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 41.2755 ms
+2026-06-24 17:57:45.803 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 8.1432 ms
+2026-06-24 17:57:47.111 +05:30 [INF] HTTP GET /api/Certificates/my responded 200 in 21.2677 ms
+2026-06-24 17:57:47.120 +05:30 [INF] HTTP GET /api/Certificates/my responded 200 in 5.4794 ms
+2026-06-24 17:57:51.790 +05:30 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 17:57:51.793 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 17:57:52.235 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 465.1940 ms
+2026-06-24 17:57:52.252 +05:30 [ERR] Failed executing DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 17:57:52.254 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 17:57:52.612 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 373.7007 ms
+2026-06-24 18:02:13.805 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 14.3928 ms
+2026-06-24 18:02:13.814 +05:30 [INF] HTTP GET /api/Learner/courses responded 200 in 5.8590 ms
+2026-06-24 18:02:14.994 +05:30 [ERR] Failed executing DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 18:02:14.997 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 18:02:15.623 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 650.2838 ms
+2026-06-24 18:02:15.641 +05:30 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [l].[Id], [l].[CreatedAt], [l].[Description], [l].[IsPublished], [l].[LessonType], [l].[ModuleId], [l].[NotesUrl], [l].[Order], [l].[ProjectUrl], [l].[Title], [l].[VideoUrl]
+FROM [Lessons] AS [l]
+2026-06-24 18:02:15.644 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'KnowledgeCulture.Infrastructure.Persistence.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'NotesUrl'.
+Invalid column name 'ProjectUrl'.
+Invalid column name 'VideoUrl'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:e7438c84-4985-45f6-ac74-a1c96b5350a2
+Error Number:207,State:1,Class:16
+2026-06-24 18:02:16.178 +05:30 [ERR] HTTP GET /api/Learner/dashboard responded 500 in 551.5224 ms

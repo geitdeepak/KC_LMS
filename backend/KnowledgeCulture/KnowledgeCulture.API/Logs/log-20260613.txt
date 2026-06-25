@@ -1,0 +1,15 @@
+2026-06-13 14:57:21.672 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-13 15:00:21.094 +05:30 [INF] HTTP GET /health responded 200 in 180.1647 ms
+2026-06-13 15:01:13.795 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 3818.7830 ms
+2026-06-13 15:02:29.319 +05:30 [INF] HTTP POST /api/Courses responded 403 in 113.9804 ms
+2026-06-13 16:50:24.938 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 588.0405 ms
+2026-06-13 16:50:55.676 +05:30 [INF] HTTP POST /api/Courses responded 200 in 425.6943 ms
+2026-06-13 17:03:46.127 +05:30 [INF] KnowledgeCulture LMS API started successfully.
+2026-06-13 17:04:27.362 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 4441.0204 ms
+2026-06-13 17:04:35.678 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 537.2359 ms
+2026-06-13 17:04:41.263 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 313.9577 ms
+2026-06-13 17:04:45.735 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 226.2970 ms
+2026-06-13 17:04:49.796 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 295.5177 ms
+2026-06-13 17:04:53.861 +05:30 [ERR] HTTP POST /api/Users/login responded 503 in 1.2723 ms
+2026-06-13 17:05:08.384 +05:30 [ERR] HTTP POST /api/Users/login responded 503 in 0.1752 ms
+2026-06-13 17:05:32.320 +05:30 [INF] HTTP POST /api/Users/login responded 200 in 267.6280 ms
