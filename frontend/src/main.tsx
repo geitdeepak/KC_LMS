@@ -7,6 +7,11 @@ import {
   CssBaseline
 } from "@mui/material";
 
+import {
+  QueryClient,
+  QueryClientProvider
+} from "@tanstack/react-query";
+
 import App from "./App";
 
 import theme
@@ -14,25 +19,50 @@ import theme
 
 import "./index.css";
 
+const queryClient =
+  new QueryClient({
+
+    defaultOptions: {
+
+      queries: {
+
+        retry: 1,
+
+        refetchOnWindowFocus: false,
+
+        staleTime: 1000 * 60 * 5
+
+      }
+
+    }
+
+  });
+
 createRoot(
   document.getElementById("root")!
 ).render(
 
   <StrictMode>
 
-    <ThemeProvider
-      theme={theme}
+    <QueryClientProvider
+      client={queryClient}
     >
 
-      <CssBaseline />
+      <ThemeProvider
+        theme={theme}
+      >
 
-      <BrowserRouter>
+        <CssBaseline />
 
-        <App />
+        <BrowserRouter>
 
-      </BrowserRouter>
+          <App />
 
-    </ThemeProvider>
+        </BrowserRouter>
+
+      </ThemeProvider>
+
+    </QueryClientProvider>
 
   </StrictMode>
 

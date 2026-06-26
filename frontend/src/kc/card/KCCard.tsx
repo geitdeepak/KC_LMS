@@ -3,43 +3,40 @@ import {
   type CardProps
 } from "@mui/material";
 
+import Colors from "../../theme/colors";
+import Radius from "../../theme/radius";
+import Shadows from "../../theme/shadow";
+
+export type KCCardProps = CardProps;
+
 const KCCard = ({
   children,
   sx,
   ...props
-}: CardProps) => {
+}: KCCardProps) => {
 
   return (
 
     <Card
-
       elevation={0}
-
       {...props}
-
       sx={{
 
-        background:
-          "#111827",
+        backgroundColor: Colors.surface,
 
-        border:
-          "1px solid rgba(255,255,255,.06)",
+        border: `1px solid ${Colors.divider}`,
 
-        borderRadius: "18px",
+        borderRadius: Radius.lg,
 
-        boxShadow:
-          "0 15px 45px rgba(0,0,0,.30)",
+        boxShadow: Shadows.md,
 
-        transition:
-          "all .25s ease",
+        overflow: "hidden",
+
+        transition: ".25s",
 
         "&:hover": {
 
-          transform:
-            "translateY(-4px)",
-
-          boxShadow:
-            "0 25px 60px rgba(0,0,0,.40)"
+          boxShadow: Shadows.lg
 
         },
 

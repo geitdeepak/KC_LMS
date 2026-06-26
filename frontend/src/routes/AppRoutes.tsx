@@ -16,20 +16,16 @@ import UnauthorizedPage
 import NotFoundPage
   from "../pages/NotFound/NotFoundPage";
 
+/* Learner */
+
 import LearnerLayout
   from "../layouts/LearnerLayout";
-
-import CoursePlayerLayout
-  from "../layouts/CoursePlayerLayout";
 
 import DashboardPage
   from "../pages/Learner/DashboardPage";
 
-import CoursesPage
+import LearnerCoursesPage
   from "../pages/Learner/CoursesPage";
-
-import CoursePlayerPage
-  from "../pages/Learner/CoursePlayer/CoursePlayerPage";
 
 import LessonPage
   from "../pages/Learner/LessonPage";
@@ -40,17 +36,32 @@ import QuizPage
 import CertificatesPage
   from "../pages/Learner/CertificatesPage";
 
+/* Course Player */
+
+import CoursePlayerLayout
+  from "../layouts/CoursePlayerLayout";
+
+import CoursePlayerPage
+  from "../pages/Learner/CoursePlayer/CoursePlayerPage";
+
+/* Admin */
+
 import AdminLayout
   from "../layouts/AdminLayout";
 
 import AdminDashboardPage
   from "../pages/Admin/Dashboard/DashboardPage";
 
+import AdminCoursesPage
+  from "../pages/Admin/Courses/CoursesPage";
+
 const AppRoutes = () => {
 
   return (
 
     <Routes>
+
+      {/* Root */}
 
       <Route
         path="/"
@@ -61,6 +72,8 @@ const AppRoutes = () => {
           />
         }
       />
+
+      {/* Authentication */}
 
       <Route
         path="/login"
@@ -77,7 +90,7 @@ const AppRoutes = () => {
         element={<UnauthorizedPage />}
       />
 
-      {/* Dashboard Layout */}
+      {/* Learner */}
 
       <Route
         path="/learner"
@@ -101,7 +114,7 @@ const AppRoutes = () => {
 
         <Route
           path="courses"
-          element={<CoursesPage />}
+          element={<LearnerCoursesPage />}
         />
 
         <Route
@@ -121,7 +134,7 @@ const AppRoutes = () => {
 
       </Route>
 
-      {/* Dedicated Course Player */}
+      {/* Course Player */}
 
       <Route
         path="/course-player"
@@ -134,41 +147,38 @@ const AppRoutes = () => {
         />
 
       </Route>
+
+      {/* Admin */}
+
       <Route
+        path="/admin"
+        element={<AdminLayout />}
+      >
 
-    path="/admin"
-
-    element={<AdminLayout />}
-
->
-
-    <Route
-
-        index
-
-        element={
-
+        <Route
+          index
+          element={
             <Navigate
-
-                to="dashboard"
-
-                replace
-
+              to="dashboard"
+              replace
             />
+          }
+        />
 
-        }
+        <Route
+          path="dashboard"
+          element={<AdminDashboardPage />}
+        />
 
-    />
+        <Route
+          path="courses"
+          element={<AdminCoursesPage />}
+        />
 
-    <Route
+      </Route>
 
-        path="dashboard"
+      {/* 404 */}
 
-        element={<AdminDashboardPage />}
-
-    />
-
-    </Route>
       <Route
         path="*"
         element={<NotFoundPage />}

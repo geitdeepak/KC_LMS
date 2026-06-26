@@ -43,3 +43,12 @@ export interface LessonDto {
   order: number;
   isPublished: boolean;
 }
+
+export interface Course {
+  id: string;
+  title: string;
+  description: string;
+  category: string;
+  level: string;
+  status: string;
+}

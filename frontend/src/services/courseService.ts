@@ -15,6 +15,8 @@ import type {
   QuizStatusDto
 } from "../types/quiz";
 
+import apiClient from "../api/apiClient";
+
 export const getMyCourses =
   async (): Promise<MyCourse[]> => {
     const response =
@@ -129,3 +131,11 @@ export const getQuizStatus =
 
     return response.data;
   };
+
+  export const getCourses = async () => {
+
+  const response = await apiClient.get("/courses");
+
+  return response.data;
+
+};

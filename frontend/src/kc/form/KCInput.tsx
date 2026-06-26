@@ -1,11 +1,57 @@
 import {
   TextField,
+  InputAdornment,
   type TextFieldProps
 } from "@mui/material";
 
-const KCInput = (
-  props: TextFieldProps
-) => {
+import type { ReactNode } from "react";
+
+import Colors from "../../theme/colors";
+import Radius from "../../theme/radius";
+
+export type KCInputProps = {
+
+  label?: string;
+
+  placeholder?: string;
+
+  value?: string;
+
+  onChange?: TextFieldProps["onChange"];
+
+  type?: string;
+
+  error?: boolean;
+
+  helperText?: ReactNode;
+
+  required?: boolean;
+
+  disabled?: boolean;
+
+  multiline?: boolean;
+
+  rows?: number;
+
+  fullWidth?: boolean;
+
+  startIcon?: ReactNode;
+
+  endIcon?: ReactNode;
+
+};
+
+const KCInput = ({
+
+  startIcon,
+
+  endIcon,
+
+  fullWidth = true,
+
+  ...props
+
+}: KCInputProps) => {
 
   return (
 
@@ -13,43 +59,69 @@ const KCInput = (
 
       {...props}
 
-      fullWidth
+      fullWidth={fullWidth}
 
       size="small"
 
       variant="outlined"
 
+      slotProps={{
+
+        input: {
+
+          startAdornment: startIcon ? (
+
+            <InputAdornment position="start">
+
+              {startIcon}
+
+            </InputAdornment>
+
+          ) : undefined,
+
+          endAdornment: endIcon ? (
+
+            <InputAdornment position="end">
+
+              {endIcon}
+
+            </InputAdornment>
+
+          ) : undefined
+
+        }
+
+      }}
+
       sx={{
 
         "& .MuiOutlinedInput-root": {
 
-          height: 46,
+          minHeight: 46,
 
-          borderRadius: "12px",
+          borderRadius: Radius.md,
 
-          backgroundColor: "#111827",
+          background: Colors.surface,
 
-          color: "#F8FAFC",
-
-          transition: ".25s",
+          color: Colors.textPrimary,
 
           "& fieldset": {
 
-            borderColor: "#374151"
+            borderColor: Colors.border
 
           },
 
           "&:hover fieldset": {
 
-            borderColor: "#4F46E5"
+            borderColor: Colors.primary
 
           },
 
           "&.Mui-focused fieldset": {
 
-            borderColor: "#6366F1",
+            borderColor: Colors.secondary,
 
-            borderWidth: "2px"
+            borderWidth: 2
 
           }
 
@@ -57,29 +129,15 @@ const KCInput = (
 
         "& .MuiInputBase-input": {
 
-          color: "#F8FAFC",
-
-          fontSize: 15,
-
-          fontWeight: 500
+          color: Colors.textPrimary
 
         },
 
         "& .MuiInputLabel-root": {
 
-          color: "#94A3B8",
+          color: Colors.textSecondary
 
-          fontSize: 14
-
-        },
-
-        "& .MuiInputLabel-root.Mui-focused": {
-
-          color: "#818CF8"
-
-        },
-
-        ...props.sx
+        }
 
       }}
 
