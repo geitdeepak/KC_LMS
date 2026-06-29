@@ -1,6 +1,7 @@
 import {
   Box,
-  Divider
+  Divider,
+  Typography
 } from "@mui/material";
 
 import KCSearch
@@ -9,7 +10,135 @@ import KCSearch
 import KCCard
   from "../../../kc/card/KCCard";
 
+import KCTable, {
+  type KCTableColumn
+} from "../../../kc/table/KCTable";
+
+import KCStatusChip
+  from "../../../kc/table/KCStatusChip";
+
+import KCTableActions
+  from "../../../kc/table/KCTableActions";
+
+import {
+  useCourses
+} from "../../../hooks/useCourses";
+
+import type {
+  Course
+} from "../../../types/course";
+
 const CourseTable = () => {
+
+  const {
+
+    data = [],
+
+    isLoading,
+
+    isError
+
+  } = useCourses();
+
+  const columns: KCTableColumn<Course>[] = [
+
+    {
+
+      id: "title",
+
+      label: "Course"
+
+    },
+
+    {
+
+      id: "category",
+
+      label: "Category"
+
+    },
+
+    {
+
+      id: "level",
+
+      label: "Level"
+
+    },
+
+    {
+
+      id: "status",
+
+      label: "Status",
+
+      render: (value) => (
+
+        <KCStatusChip
+
+          status={String(value)}
+
+        />
+
+      )
+
+    },
+
+    {
+
+      id: "id",
+
+      label: "Actions",
+
+      align: "center",
+
+      render: (_, row) => (
+
+        <KCTableActions
+
+          onEdit={() =>
+
+            console.log(
+
+              "Edit",
+
+              row.id
+
+            )
+
+          }
+
+          onPublish={() =>
+
+            console.log(
+
+              "Publish",
+
+              row.id
+
+            )
+
+          }
+
+          onDelete={() =>
+
+            console.log(
+
+              "Delete",
+
+              row.id
+
+            )
+
+          }
+
+        />
+
+      )
+
+    }
+
+  ];
 
   return (
 
@@ -29,7 +158,9 @@ const CourseTable = () => {
         >
 
           <KCSearch
+
             placeholder="Search Courses..."
+
           />
 
         </Box>
@@ -40,19 +171,55 @@ const CourseTable = () => {
 
       <Box
         sx={{
-
-          height: 300,
-
-          display: "flex",
-
-          justifyContent: "center",
-
-          alignItems: "center"
-
+          p: 3
         }}
       >
 
-        Course Table Coming Soon...
+        {
+
+          isLoading ?
+
+          (
+
+            <Typography>
+
+              Loading courses...
+
+            </Typography>
+
+          )
+
+          :
+
+          isError ?
+
+          (
+
+            <Typography
+              color="error"
+            >
+
+              Failed to load courses.
+
+            </Typography>
+
+          )
+
+          :
+
+          (
+
+            <KCTable
+
+              columns={columns}
+
+              rows={data}
+
+            />
+
+          )
+
+        }
 
       </Box>
 
